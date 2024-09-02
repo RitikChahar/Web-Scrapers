@@ -1,0 +1,578 @@
+[
+  {
+    "firstname": "Priscilla",
+    "lastname": "Huh",
+    "email": "priscilla.huh@twosigma.com",
+    "linkedin": "https://www.linkedin.com/in/priscilla-huh-6483a5159/",
+    "title": "Recruiting Coordination Lead",
+    "company": "Two Sigma"
+  },
+  {
+    "firstname": "Christiana",
+    "lastname": "Holladay",
+    "email": "christianaholladay@optiver.us",
+    "linkedin": "https://www.linkedin.com/in/christianaholladay",
+    "title": "Campus Technology Recruiter",
+    "company": "Optiver"
+  },
+  {
+    "firstname": "Louis",
+    "lastname": "Lee",
+    "email": "louis.lee@codeium.com",
+    "linkedin": "https://www.linkedin.com/in/louisleeta/",
+    "title": "Technical Recruiter",
+    "company": "Codeium"
+  },
+  {
+    "firstname": "Aparna",
+    "lastname": "Sreeraman",
+    "email": "aparna.sreeraman@uber.com",
+    "linkedin": "https://www.linkedin.com/in/aparna-sreeraman-360b9b/",
+    "title": "Principal Technical Recruiter",
+    "company": "Uber"
+  },
+  {
+    "firstname": "Jaylyn",
+    "lastname": "Jones",
+    "email": "jaylyn@duolingo.com",
+    "linkedin": "https://www.linkedin.com/in/jaylynj",
+    "title": "University Recruiter",
+    "company": "Duolingo"
+  },
+  {
+    "firstname": "Rachel",
+    "lastname": "Holmes",
+    "email": "rachael.holmes@yahooinc.com",
+    "linkedin": "https://www.linkedin.com/in/rachael-holmes99/",
+    "title": "Emerging Careers Recruiter",
+    "company": "Yahoo"
+  },
+  {
+    "firstname": "Kathleen",
+    "lastname": "Kelejian",
+    "email": "kathleen@scale.com",
+    "linkedin": "https://www.linkedin.com/in/kathleen-kelejian-2284abb7/",
+    "title": "Recruiter",
+    "company": "Scale AI"
+  },
+  {
+    "firstname": "Ahmed",
+    "lastname": "Moustafa",
+    "email": "ahmed@scale.com",
+    "linkedin": "https://www.linkedin.com/in/ahmed-moustafa-6a674283/",
+    "title": "Senior Recruiter",
+    "company": "Scale AI"
+  },
+  {
+    "firstname": "John",
+    "lastname": "Parker",
+    "email": "john@scale.com",
+    "linkedin": "https://www.linkedin.com/in/johnparker03/",
+    "title": "Technical Sourcer",
+    "company": "Scale AI"
+  },
+  {
+    "firstname": "Christian",
+    "lastname": "Guanzing",
+    "email": "christian@scale.com",
+    "linkedin": "https://www.linkedin.com/in/christian-vitug-guanzing/",
+    "title": "University Recruiter",
+    "company": "Scale AI"
+  },
+  {
+    "firstname": "Robin",
+    "lastname": "Lee",
+    "email": "robin@scale.com",
+    "linkedin": "https://www.linkedin.com/in/robinhlee/",
+    "title": "University Recruiter",
+    "company": "Scale AI"
+  },
+  {
+    "firstname": "Priscila",
+    "lastname": "Whitman",
+    "email": "priscila.whitman@databricks.com",
+    "linkedin": "https://www.linkedin.com/in/priscila-cantu-whitman-4018a740/",
+    "title": "Technial Sourcer",
+    "company": "Databricks"
+  },
+  {
+    "firstname": "Maura",
+    "lastname": "Sweetland",
+    "email": "maura.sweetland@databricks.com",
+    "linkedin": "https://www.linkedin.com/in/maurasweetland/",
+    "title": "Technical Recruiter",
+    "company": "Databricks"
+  },
+  {
+    "firstname": "Lauren",
+    "lastname": "Steitz",
+    "email": "lauren.steitz@databricks.com",
+    "linkedin": "https://www.linkedin.com/in/lauren-steitz/",
+    "title": "University Recruiter",
+    "company": "Databricks"
+  },
+  {
+    "firstname": "Jacquelyn",
+    "lastname": "Quezada",
+    "email": "jacquelyn.quezada@databricks.com",
+    "linkedin": "https://www.linkedin.com/in/jacquelynquezada/",
+    "title": "University Recruiter",
+    "company": "Databricks"
+  },
+  {
+    "firstname": "Inbar",
+    "lastname": "Gam",
+    "email": "inbar.gam@databricks.com",
+    "linkedin": "https://www.linkedin.com/in/inbargam/",
+    "title": "Senior University Recruiter",
+    "company": "Databricks"
+  },
+  {
+    "firstname": "Shiloah",
+    "lastname": "Vasquez",
+    "email": "svasquez@nvidia.com",
+    "linkedin": "https://www.linkedin.com/in/shiloah-vasquez/",
+    "title": "University Recruiter",
+    "company": "NVIDIA"
+  },
+  {
+    "firstname": "Christopher",
+    "lastname": "Ruether",
+    "email": "cruether@nvidia.com",
+    "linkedin": "https://www.linkedin.com/in/christopher-ruether/",
+    "title": "Technical University Recruiter",
+    "company": "NVIDIA"
+  },
+  {
+    "firstname": "Andie",
+    "lastname": "Summers",
+    "email": "andie.summers@databricks.com",
+    "linkedin": "https://www.linkedin.com/in/andie-summers/",
+    "title": "University Recruiter",
+    "company": "Databricks"
+  },
+  {
+    "firstname": "Ruben",
+    "lastname": "Casillan",
+    "email": "rcasillan@apple.com",
+    "linkedin": "https://www.linkedin.com/in/rcasillan/",
+    "title": "Senior Technical Recruiter",
+    "company": "Apple"
+  },
+  {
+    "firstname": "Dianna",
+    "lastname": "Chourarath",
+    "email": "dchourarath@apple.com",
+    "linkedin": "https://www.linkedin.com/in/dianna-chourarath-296a7677/",
+    "title": "Technical Recruiter",
+    "company": "Apple"
+  },
+  {
+    "firstname": "Heather",
+    "lastname": "Wang",
+    "email": "heather.wang@tiktok.com",
+    "linkedin": "https://www.linkedin.com/in/ailingwang/",
+    "title": "Technical Recruiter",
+    "company": "TikTok"
+  },
+  {
+    "firstname": "Dan",
+    "lastname": "Wang",
+    "email": "ru@openai.com",
+    "linkedin": "https://www.linkedin.com/in/rumeng-dan-wang/",
+    "title": "Senior Technical Recruiter",
+    "company": "OpenAI"
+  },
+  {
+    "firstname": "Nicky",
+    "lastname": "Johnson",
+    "email": "nicky@stripe.com",
+    "linkedin": "https://www.linkedin.com/in/nicolejohnson4/",
+    "title": "Technical Recruiter",
+    "company": "Stripe"
+  },
+  {
+    "firstname": "Sukie",
+    "lastname": "Emerson",
+    "email": "sukie@stripe.com",
+    "linkedin": "https://www.linkedin.com/in/sukieemerson/",
+    "title": "Technical Recruiter",
+    "company": "Stripe"
+  },
+  {
+    "firstname": "Trevor",
+    "lastname": "Macabe",
+    "email": "trevor@stripe.com",
+    "linkedin": "https://www.linkedin.com/in/trevormacabe/",
+    "title": "Senior Technical Recruiter",
+    "company": "Stripe"
+  },
+  {
+    "firstname": "Meah",
+    "lastname": "Gorokhov",
+    "email": "meah@stripe.com",
+    "linkedin": "https://www.linkedin.com/in/meah-gorokhov/",
+    "title": "Technical Recruiter",
+    "company": "Stripe"
+  },
+  {
+    "firstname": "Krystle",
+    "lastname": "Sanchez",
+    "email": "krystle.sanchez@servicenow.com",
+    "linkedin": "https://www.linkedin.com/in/krystlesanchez/",
+    "title": "Senior Recruiter, Early In Career",
+    "company": "ServiceNow"
+  },
+  {
+    "firstname": "Jessica",
+    "lastname": "Scherer",
+    "email": "jessica.scherer@servicenow.com",
+    "linkedin": "https://www.linkedin.com/in/jessicajscherer/",
+    "title": "Senior Technical Recruiter Early In Career",
+    "company": "ServiceNow"
+  },
+  {
+    "firstname": "Kevin",
+    "lastname": "Hill",
+    "email": "kevin.hill@servicenow.com",
+    "linkedin": "https://www.linkedin.com/in/kevinhillrecruiter/",
+    "title": "Early In Career Recruiter",
+    "company": "ServiceNow"
+  },
+  {
+    "firstname": "Colette",
+    "lastname": "Jaeger",
+    "email": "colette.jaeger@akunacapital.com",
+    "linkedin": "https://www.linkedin.com/in/colette-jaeger-b5201672/",
+    "title": "Campus Recruiter",
+    "company": "Akuna Capital"
+  },
+  {
+    "firstname": "Sharon",
+    "lastname": "Lin",
+    "email": "sharon.lin@twosigma.com",
+    "linkedin": "https://www.linkedin.com/in/5haronlin/",
+    "title": "University Recruiter",
+    "company": "Two Sigma"
+  },
+  {
+    "firstname": "Grace",
+    "lastname": "Heisenbottle",
+    "email": "gheisenbottle@janestreet.com",
+    "linkedin": "https://www.linkedin.com/in/gheisenbottle/",
+    "title": "Technical Recruiter",
+    "company": "Jane Street"
+  },
+  {
+    "firstname": "Nicole",
+    "lastname": "Pivnick",
+    "email": "nicole.pivnick@capitalone.com",
+    "linkedin": "https://www.linkedin.com/in/npivnick/",
+    "title": "VP (Recruiter)",
+    "company": "Capital One"
+  },
+  {
+    "firstname": "Ian",
+    "lastname": "Waldron",
+    "email": "ian.waldron@airbnb.com",
+    "linkedin": "https://www.linkedin.com/in/ianwaldron/",
+    "title": "Technical Recruiter",
+    "company": "Airbnb"
+  },
+  {
+    "firstname": "Aryana",
+    "lastname": "Shandel",
+    "email": "ashandel@yelp.com",
+    "linkedin": "https://www.linkedin.com/in/aryana-shandel/",
+    "title": "Technical Recruiter",
+    "company": "Yelp"
+  },
+  {
+    "firstname": "Desiree",
+    "lastname": "Barton",
+    "email": "desiree.barton@spacex.com",
+    "linkedin": "https://www.linkedin.com/in/desireebarton/",
+    "title": "Technical Recruiter",
+    "company": "SpaceX"
+  },
+  {
+    "firstname": "Ryan",
+    "lastname": "Farrell",
+    "email": "ryan.farrell@spacex.com",
+    "linkedin": "https://www.linkedin.com/in/farrellryane/",
+    "title": "Technical Recruiter",
+    "company": "SpaceX"
+  },
+  {
+    "firstname": "Christine",
+    "lastname": "Mun",
+    "email": "christine@stripe.com",
+    "linkedin": "https://www.linkedin.com/in/christinebmun/",
+    "title": " People Recruiter",
+    "company": "Stripe"
+  },
+  {
+    "firstname": "Dhanisha",
+    "lastname": "Tailor",
+    "email": "dhanisha.tailor@uber.com",
+    "linkedin": "https://www.linkedin.com/in/dhanisha-tailor-aa1a311b6/",
+    "title": "Technical Recruiter",
+    "company": "Uber"
+  },
+  {
+    "firstname": "Hayley",
+    "lastname": "Haythorne",
+    "email": "hayley.haythorne@spacex.com",
+    "linkedin": "https://www.linkedin.com/in/hayleyhaythorne/",
+    "title": "Lead Technical Recruiter",
+    "company": "SpaceX"
+  },
+  {
+    "firstname": "Hannah",
+    "lastname": "Alforque",
+    "email": "hannahkailealforque@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/hannahkaile/",
+    "title": "Recruiting Coordinator",
+    "company": "Clumio"
+  },
+  {
+    "firstname": "Sophie",
+    "lastname": "Albright",
+    "email": "sophiea@nvidia.com",
+    "linkedin": "https://www.linkedin.com/in/sophiealbright/",
+    "title": "University Recruiter",
+    "company": "NVIDIA"
+  },
+  {
+    "firstname": "Stephanie",
+    "lastname": "Palencia",
+    "email": "stephanie_palencia@mckinsey.com",
+    "linkedin": "https://www.linkedin.com/in/stephanie-palencia-1845ba8b/",
+    "title": " Recruiter",
+    "company": "McKinsey & Company"
+  },
+  {
+    "firstname": "Christian",
+    "lastname": "Luna",
+    "email": "cdeluna@atlassian.com",
+    "linkedin": "https://www.linkedin.com/in/christiandeluna/",
+    "title": "Campus Recruiter",
+    "company": "Atlassian"
+  },
+  {
+    "firstname": "RJ",
+    "lastname": "Hayes",
+    "email": "rj.hayes@microsoft.com",
+    "linkedin": "https://www.linkedin.com/in/rjhayes2/",
+    "title": "Technical University Recruiter",
+    "company": "Microsoft"
+  },
+  {
+    "firstname": "Breanne",
+    "lastname": "Kretzschmar",
+    "email": "breanne.kretzschmar@capitalone.com",
+    "linkedin": "https://www.linkedin.com/in/breanne-kretzschmar/",
+    "title": "Senior Technical Recruiter",
+    "company": "Capital One"
+  },
+  {
+    "firstname": "Meghan",
+    "lastname": "Kahn",
+    "email": "himeghan@amazon.com",
+    "linkedin": "https://www.linkedin.com/in/meghankahn/",
+    "title": "Early Career Talent Recruiter",
+    "company": "Amazon"
+  },
+  {
+    "firstname": "Adriana",
+    "lastname": "Durante",
+    "email": "adurante@rippling.com",
+    "linkedin": "https://www.linkedin.com/in/adriana-durante/",
+    "title": "University Recruiting Manager",
+    "company": "Rippling"
+  },
+  {
+    "firstname": "Nadene",
+    "lastname": "Eissa",
+    "email": "nadene@airtable.com",
+    "linkedin": "https://www.linkedin.com/in/nadene-eissa-8ba725163/",
+    "title": "Technical Recruiter",
+    "company": "Airtable"
+  },
+  {
+    "firstname": "Lauren",
+    "lastname": "Pakravan",
+    "email": "lpakravan@amazon.com",
+    "linkedin": "https://www.linkedin.com/in/lauren-pakravan-172535167/",
+    "title": "Technical Sourcing Recruiter",
+    "company": "Amazon"
+  },
+  {
+    "firstname": "Brianne",
+    "lastname": "Cline",
+    "email": "brianne.cline@servicenow.com",
+    "linkedin": "https://www.linkedin.com/in/briannecline/",
+    "title": "Technical Recruiter",
+    "company": "ServiceNow"
+  },
+  {
+    "firstname": "Christian",
+    "lastname": "Luhnow",
+    "email": "cluhnow@anduril.com",
+    "linkedin": "https://www.linkedin.com/in/christian-luhnow/",
+    "title": "Technical Recruiter",
+    "company": "Anduril"
+  },
+  {
+    "firstname": "Mina",
+    "lastname": "Habib",
+    "email": "mhabib@deloitte.com",
+    "linkedin": "http://linkedin.com/in/minahabib1",
+    "title": "Campus Recruiting Specialist",
+    "company": "Deloitte"
+  },
+  {
+    "firstname": "Diana",
+    "lastname": "Ogbevire",
+    "email": "diana.ogbevire@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/diana-ogbevire/",
+    "title": "University Recruiter",
+    "company": "IMC Trading"
+  },
+  {
+    "firstname": "Rachel",
+    "lastname": "Ruiz",
+    "email": "rachel@brex.com",
+    "linkedin": "https://www.linkedin.com/in/rachel-ruiz/",
+    "title": "Senior Technical Recruiter",
+    "company": "Brex"
+  },
+  {
+    "firstname": "Jason",
+    "lastname": "Barker",
+    "email": "jason.barker@spreetail.com",
+    "linkedin": "https://www.linkedin.com/in/jasonbarkertech/",
+    "title": "Director Of Talent Acquisition",
+    "company": "Spreetail"
+  },
+  {
+    "firstname": "Rachel",
+    "lastname": "Gannon",
+    "email": "rachel.gannon@spreetail.com",
+    "linkedin": "https://www.linkedin.com/in/rachelcgannon/",
+    "title": "Talent Management Partner",
+    "company": "Spreetail"
+  },
+  {
+    "firstname": "Brandon",
+    "lastname": "Feicho",
+    "email": "bfeicho@twilio.com",
+    "linkedin": "https://www.linkedin.com/in/brandonfeicho/",
+    "title": "Early In Career Talent Partner",
+    "company": "Twilio"
+  },
+  {
+    "firstname": "Ava",
+    "lastname": "Parashis",
+    "email": "ava.parashis@mossadams.com",
+    "linkedin": "https://www.linkedin.com/in/ava-parashis27/",
+    "title": "University Recruiter",
+    "company": "Moss Adams"
+  },
+  {
+    "firstname": "Christi",
+    "lastname": "Brennan",
+    "email": "christi.brennan@braze.com",
+    "linkedin": "https://www.linkedin.com/in/christi-brennan/",
+    "title": "Recruiting Coordinator",
+    "company": "Braze"
+  },
+  {
+    "firstname": "Jennifer",
+    "lastname": "Larson",
+    "email": "jelarson@anduril.com",
+    "linkedin": "https://www.linkedin.com/in/jennifer-larson-8305076/",
+    "title": "Senior Recruiter",
+    "company": "Anduril"
+  },
+  {
+    "firstname": "Holli",
+    "lastname": "Plancino",
+    "email": "holli.placino@toyotaconnected.com",
+    "linkedin": "https://www.linkedin.com/in/hollimaestas/",
+    "title": "Senior Technical Recruiter",
+    "company": "Toyota"
+  },
+  {
+    "firstname": "Melissa",
+    "lastname": "Reis",
+    "email": "Melissa.Reis1@ibm.com",
+    "linkedin": "https://www.linkedin.com/in/melissa-reis-59975613/",
+    "title": "Talent Acquisition For Early Professional Developers",
+    "company": "IBM"
+  },
+  {
+    "firstname": "Heather",
+    "lastname": "Dupuis",
+    "email": "Heather.Dupuis@lumen.com",
+    "linkedin": "https://www.linkedin.com/in/heatherdupuis/",
+    "title": "Talent Acquisition",
+    "company": "Lumen"
+  },
+  {
+    "firstname": "Chloe",
+    "lastname": "Fisher",
+    "email": "chloep@qualtrics.com",
+    "linkedin": "https://www.linkedin.com/in/chloepearson/",
+    "title": "University Technical Recruiter",
+    "company": "Qualtrics"
+  },
+  {
+    "firstname": "Carolina",
+    "lastname": "Barreto",
+    "email": "cbarreto@fb.com",
+    "linkedin": "https://www.linkedin.com/in/carolinabarreto1015/",
+    "title": "University Recruiter",
+    "company": "Meta"
+  },
+  {
+    "firstname": "Brittany",
+    "lastname": "Rhoa",
+    "email": "brittany@hudson-trading.com",
+    "linkedin": "https://www.linkedin.com/in/brittany-rhoa/",
+    "title": "Campus Recruiter",
+    "company": "Hudson River Trading"
+  },
+  {
+    "firstname": "Anthony",
+    "lastname": "Dinh",
+    "email": "anthony.dinh@servicenow.com",
+    "linkedin": "https://www.linkedin.com/in/anthony-dinh-323238a1/",
+    "title": "Technical Recruiter, Early In Career",
+    "company": "ServiceNow"
+  },
+  {
+    "firstname": "Christina",
+    "lastname": "Lalor",
+    "email": "clalor@salesforce.com",
+    "linkedin": "https://www.linkedin.com/in/christina-lalor/",
+    "title": "Talent Scout",
+    "company": "Salesforce"
+  },
+  {
+    "firstname": "Isabel",
+    "lastname": "Macias",
+    "email": "imacias@nerdwallet.com",
+    "linkedin": "https://www.linkedin.com/in/isabel-macias-952020b7/",
+    "title": "University Recruiter",
+    "company": "NerdWallet"
+  },
+  {
+    "firstname": "Matthew",
+    "lastname": "Lorman",
+    "email": "mlorman@cisco.com",
+    "linkedin": "https://www.linkedin.com/in/matthewlorman/",
+    "title": "University Recruiter",
+    "company": "Cisco"
+  }
+]
